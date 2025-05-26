@@ -23,7 +23,7 @@ const About = () => {
             <div className="relative">
               <div className="w-full h-full max-w-md mx-auto aspect-square rounded-lg bg-primary-200 dark:bg-primary-900/30 overflow-hidden">
                 <img 
-                  src="/myportfolio/profile.jpg" 
+                  src="/mywebsite/profile.jpg" 
                   alt="Profile" 
                   className="w-full h-full object-cover"
                 />
